@@ -1,16 +1,38 @@
-### Hi there 👋
-
-<!--
-**TiagoSansao/TiagoSansao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1><b>Tiago Sansão</b></h1>
+<hr/>
+<h2><b>Knowledge</b></h2>
+<ul>
+  <li>Languages</li>
+  <ol>
+    <li>Javascript</li>
+    <li>PHP</li>
+  </ol>
+  <li>Front-end</li>
+  <ol>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>React</li>
+  </ol>
+  <li>Node.js</li>
+  <ol>
+    <li>Express.js</li>
+    <li>Socket.io</li>
+  </ol>
+  <li>Database</li>
+  <ol>
+    <li>MySQL</li>
+  </ol>
+  <li>Operational System</li>
+  <ol>
+    <li>Windows</li>
+  </ol>
+  <li>IDE</li>
+  <ol>
+    <li>Visual Studio Code</li>
+  </ol>
+  <li>Versioning</li>
+  <ol>
+    <li>Git</li>
+    <li>GitHub</li>
+  </ol>
+</ul>
