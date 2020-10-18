@@ -8,11 +8,11 @@
 
 <hr />
 
-<h3> 👨🏻•💻 &nbsp;About Me</h3>
-🎯 My goal is to become a good Full Stack Developer
-💬 I speak Portuguese and English
-🏠 I was born and live in Brazil
-📘 I am currently just studying
+<h3> ❔ &nbsp;About</h3>
+🎯 My goal is to become a good Full Stack Developer <br />
+💬 I speak Portuguese and English <br />
+🏠 I was born and live in Brazil <br />
+📘 I am currently just studying <br />
 
 <hr />
 
