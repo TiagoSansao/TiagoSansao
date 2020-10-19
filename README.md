@@ -33,8 +33,8 @@
     <img src="https://img.shields.io/badge/-Styled_Components-yellow?color=2c3e50&logo=styled-components&style=flat-square" alt="Styled Components"/>
   </li>
   <li> ⚙️ 
-    <img src="https://img.shields.io/badge/-GitHub-yellow?color=2c3e50&logo=github&style=flat-square" alt="Git"/>
-    <img src="https://img.shields.io/badge/-GitHub-yellow?color=2c3e50&logo=github&style=flat-square&logoColor=007ACC" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-GitHub-yellow?color=2c3e50&logo=github&style=flat-square" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-Git-yellow?color=2c3e50&logo=git&style=flat-square" alt="GitHub"/>
     <img src="https://img.shields.io/badge/-Visual_Studio_Code-yellow?color=2c3e50&logo=visual-studio-code&style=flat-square&logoColor=007ACC" alt="Visual Studio Code"/>
   </li>
   <li> 🛢 
