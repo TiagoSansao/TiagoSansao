@@ -39,6 +39,7 @@
   </li>
   <li> 🛢 
     <img src="https://img.shields.io/badge/-MySQL-yellow?color=2c3e50&logo=mysql&style=flat-square" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/-MongoDB-yellow?color=2c3e50&logo=mongodb&style=flat-square" alt="MongoDB"/>
   </li>
 </ul>
 
