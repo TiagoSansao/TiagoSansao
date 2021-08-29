@@ -7,10 +7,10 @@
 <hr />
 
 <h3> ❔ &nbsp;About</h3>
-🎯 My goal is to become a good Full Stack Developer <br />
+💻 Full Stack Web and Mobile (React Native) Developer <br />
 💬 I speak Portuguese and English <br />
 🏠 I was born and live in Brazil <br />
-📘 I am currently just studying <br />
+📘 I've been programming since the beginning of the COVID-19 quarantine in 2020<br />
 
 <hr />
 
