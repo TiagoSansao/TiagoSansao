@@ -23,18 +23,17 @@
     <img src="https://img.shields.io/badge/-Typescript-yellow?color=2c3e50&logo=typescript&style=flat-square&logoColor=007ACC" alt="Typescript"/>
     <img src="https://img.shields.io/badge/-React-yellow?color=2c3e50&logo=react&style=flat-square" alt="React"/>
     <img src="https://img.shields.io/badge/-Node.js-yellow?color=2c3e50&logo=node.js&style=flat-square" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/-PHP-yellow?color=2c3e50&logo=PHP&style=flat-square" alt="PHP"/>
-  </li>
-  <li> 📲 
-    <img src="https://img.shields.io/badge/-React_Native-yellow?color=2c3e50&logo=react&style=flat-square" alt="React Native"/>
-    <img src="https://img.shields.io/badge/-Expo-yellow?color=2c3e50&logo=expo&style=flat-square&logoColor=171e29" alt="Expo"/>
-    <img src="https://img.shields.io/badge/-Styled_Components-yellow?color=2c3e50&logo=styled-components&style=flat-square" alt="Styled Components"/>
   </li>
   <li> ⚙️ 
     <img src="https://img.shields.io/badge/-GitHub-yellow?color=2c3e50&logo=github&style=flat-square" alt="GitHub"/>
     <img src="https://img.shields.io/badge/-Git-yellow?color=2c3e50&logo=git&style=flat-square" alt="GitHub"/>
     <img src="https://img.shields.io/badge/-Docker-yellow?color=2c3e50&logo=docker&style=flat-square%22" alt="GitHub"/>
     <img src="https://img.shields.io/badge/-Visual_Studio_Code-yellow?color=2c3e50&logo=visual-studio-code&style=flat-square&logoColor=007ACC" alt="Visual Studio Code"/>
+  <li> 📲 
+    <img src="https://img.shields.io/badge/-React_Native-yellow?color=2c3e50&logo=react&style=flat-square" alt="React Native"/>
+    <img src="https://img.shields.io/badge/-Expo-yellow?color=2c3e50&logo=expo&style=flat-square&logoColor=171e29" alt="Expo"/>
+    <img src="https://img.shields.io/badge/-Styled_Components-yellow?color=2c3e50&logo=styled-components&style=flat-square" alt="Styled Components"/>
+  </li>
   </li>
   <li> 🛢 
     <img src="https://img.shields.io/badge/-MySQL-yellow?color=2c3e50&logo=mysql&style=flat-square" alt="MySQL"/>
@@ -46,8 +45,8 @@
 
 <h3>🚀 GitHub stats</h3>
 <a href="https://github.com/TiagoSansao">
-  &nbsp; <img height="175em" src="https://github-readme-stats.vercel.app/api?username=tiagosansao&show_icons=true&theme=radical" alt="Tiago Sansão statistics." />
-  &nbsp; <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosansao&layout=compact&langs_count=6&theme=radical" alt="Tiago Sansão statistics." />
+  &nbsp; <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tiagosansao&show_icons=true&theme=radical" alt="Tiago Sansão statistics." />
+  &nbsp; <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosansao&layout=compact&langs_count=8&theme=radical" alt="Tiago Sansão statistics." />
 </a>
 
 <hr />
