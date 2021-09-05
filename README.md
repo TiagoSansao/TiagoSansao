@@ -45,8 +45,8 @@
 
 <h3>🚀 GitHub stats</h3>
 <a href="https://github.com/TiagoSansao">
-  &nbsp; <img height="200em" src="https://github-readme-stats.vercel.app/api?username=tiagosansao&show_icons=true&theme=radical" alt="Tiago Sansão statistics." />
-  &nbsp; <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosansao&layout=compact&langs_count=8&theme=radical" alt="Tiago Sansão statistics." />
+  &nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagosansao&show_icons=true&theme=radical" alt="Tiago Sansão statistics." />
+  &nbsp; <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagosansao&layout=compact&langs_count=8&theme=radical" alt="Tiago Sansão statistics." />
 </a>
 
 <hr />
