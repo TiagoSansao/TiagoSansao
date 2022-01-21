@@ -27,7 +27,7 @@
   <li> ⚙️ 
     <img src="https://img.shields.io/badge/-GitHub-yellow?color=2c3e50&logo=github&style=flat-square" alt="GitHub"/>
     <img src="https://img.shields.io/badge/-Git-yellow?color=2c3e50&logo=git&style=flat-square" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/-Docker-yellow?color=2c3e50&logo=docker&style=flat-square%22" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/-Docker-yellow?color=2c3e50&logo=docker&style=flat-square" alt="GitHub"/>
     <img src="https://img.shields.io/badge/-Visual_Studio_Code-yellow?color=2c3e50&logo=visual-studio-code&style=flat-square&logoColor=007ACC" alt="Visual Studio Code"/>
   <li> 📲 
     <img src="https://img.shields.io/badge/-React_Native-yellow?color=2c3e50&logo=react&style=flat-square" alt="React Native"/>
