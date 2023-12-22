@@ -5,10 +5,9 @@ Enchantée, I'm a back-end developer who has been in the development market sinc
 Off-topic things, so you can know me:
 
 - Most of my childhood was spent in making Minecraft servers
-- I'm a really curious person. And, since I read Atomic Habits, I've become a little into neuroscience
-- FYI, most chats with me might end with dopamine and the cerebral rewarding system being debated
+- Since I read Atomic Habits, I've become a little into neuroscience
 - I also like to invest and to accompany the market
-- And, I'm learning French on Duolingo
+- And, I'm learning French on Duo (;
 
 <hr />
 
@@ -19,8 +18,7 @@ So, first of all, I think tools are only tools and I really value knowing the lo
 About the tool stack I used to implement what I said above, I can mention:
 
 - Node.js + Express.js
-- TypeScript (I love OOP paradigm)
-- Python + FastAPI
+- TypeScript (OOP paradigm mostly)
 - Prisma ORM + Postgres/MongoDB
 - CI Pipeline (SCA, SAST, Unit tests, linting...)
 - Container orchestration with Docker
