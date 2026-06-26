@@ -1,6 +1,6 @@
 ### 😃 &nbsp;A little brief on who I am
 
-Back-end developer with over 5 years of experience — 3 in the cybersecurity field and the most recent 2 in the financial sector.
+Back-end developer with over 5 years of experience — 3 in the cybersecurity field and the most recent 2 in the financial sector. Currently pursuing a Information Systems bachelor degree in the Federal University of Santa Catarina (UFSC).
 
 Off-topic things, so you can know me:
 
